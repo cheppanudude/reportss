@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.drucare</groupId>
 	<artifactId>reports</artifactId>
-	<version>1.0.0</version>
+	<version>0.1</version>
 	<name>drucare_project</name>
 	<description>java project</description>
 	<url/>
@@ -53,8 +53,8 @@
 
 	<distributionManagement>
     <repository>
-        <id>reports-releases</id> <!-- Use the repository ID you've set in settings.xml -->
-        <url>http://18.60.45.148:8081/repository/reports-releases/</url>
+        <id>maven-releases</id> <!-- Use the repository ID you've set in settings.xml -->
+        <url>http://13.201.35.22:8081/repository/maven-releases/</url>
     </repository>
 </distributionManagement>
 
